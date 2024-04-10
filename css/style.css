@@ -121,11 +121,6 @@ header ul li a:focus {
     grid-column: 3 / 4;
 }
 
-button {
-    
-}
-
-
 .product-text a:link,
 .product-text a:visited {
     text-decoration: none;
